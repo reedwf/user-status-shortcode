@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: User Status Shortcode
-Plugin URI: http://interwebdevelopment.com
+Plugin URI: https://www.storyblock.media/
 Description: Easily allows you to display different content to your visitors that are logged in than those that are logged out via shortcode.  Tested in templates, pages, posts and text widgets.
-Author: Reed Wendorf-French
-Author URI: http://reedwf.com
-Version: 0.1
+Author: Story Block Media
+Author URI: https://www.storyblock.media/
+Version: 0.1.1
 */
 
 // SECURITY CHECK: Ensure this file isn't being accessed directly
